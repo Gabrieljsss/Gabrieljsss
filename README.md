@@ -1,7 +1,7 @@
 ### 👋 Hi i'm @gabrieljsss or @gabrieljss or @chico #####
 ____
 - 📚 I'm an automation and control engineering student @ [UFRJ](https://ufrj.br/)
-- 🌱 I’m currently working as a fullstack developer @ [CERN](https://www.home.cern/)
+- 🌱 I’m currently working as a fullstack developer @ [Inoa](ttps://www.inoa.com.br)
 - 💡 My main interests are Web Development, Software Architecture & Design, Data Analysis and Visualization, and Control Theory Applied to Software Engineering
 - 📫 You can click below to reach me
   - [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:99gabrieljss@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-e-silva-503801140/)
