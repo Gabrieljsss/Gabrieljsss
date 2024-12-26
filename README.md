@@ -1,12 +1,12 @@
 ### 👋 Hi i'm @gabrieljsss or @gabrieljss or @chico #####
 ____
-- 📚 I'm an automation and control engineering student @ [UFRJ](https://ufrj.br/)
-- 🌱 I’m currently working as a fullstack developer @ [Inoa](ttps://www.inoa.com.br)
-- 💡 My main interests are Web Development, Software Architecture & Design, Data Analysis and Visualization, and Control Theory Applied to Software Engineering
+- 📚 I'm an automation and control engineering student @ [UFRJ](https://ufrj.br/) graduting by mid 2025 and currently taking my last undergrad course. I'm currently working as a Software Developer @ [Inoa](https://www.inoa.com.br/).
+- 💡 My primary interests lie in software development, particularly in web applications, REST APIs, and performance-critical systems, where selecting the appropriate data structures and algorithms is essential. I am also focused on system specification and design, including acquiring domain knowledge from end-users to create solutions that effectively meet their needs. Additionally, I am interested in the mathematical modeling of dynamic systems using differential equations, especially in the context of robotics. I am also keen on the design and implementation of control systems, including the development of feedback mechanisms, stability analysis, and optimization techniques to enhance system performance and ensure reliability in practical applications.
 - 📫 You can click below to reach me
   - [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:99gabrieljss@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-e-silva-503801140/)
 - 👨‍💻 I'm familiar with the following technologies
 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
